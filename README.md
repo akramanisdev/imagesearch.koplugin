@@ -1,4 +1,5 @@
 # Image Search & AI Generation Plugin for KOReader
+![Screenshot 1](imagesearch1.png) ![Screenshot 2](imagesearch2.png)
 
 A powerful plugin for KOReader that allows you to search for images on the web or generate them using state-of-the-art AI, all directly from your e-reader.
 
